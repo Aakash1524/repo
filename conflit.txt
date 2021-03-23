@@ -1,1 +1,2 @@
 Conflit file
+Developer 2 here.
