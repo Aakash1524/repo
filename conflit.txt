@@ -1,1 +1,3 @@
 Conflit file
+
+Developer 1 modifying conflict file.
